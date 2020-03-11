@@ -1,4 +1,4 @@
-# COVID_19_ITALIA
+# COVID-19 outbreak status in ITALY
 
 This repository contains a notebook that gets the COVID-19 cases data from the *Protezione Civile* official repository and allows you to visualize them.
 
