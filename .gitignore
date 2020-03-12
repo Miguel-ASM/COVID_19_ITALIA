@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+dpc*.json
+dpc*.csv
+.DS_Store
