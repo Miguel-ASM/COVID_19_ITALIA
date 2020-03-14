@@ -1,6 +1,4 @@
 name: COVID-19
-channels:
-  - defaults
 dependencies:
   - ipython
   - pandas
