@@ -1,6 +1,6 @@
 name: COVID-19
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - ipython
   - pandas
